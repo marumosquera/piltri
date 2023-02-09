@@ -56,6 +56,7 @@ export const ContactForm = () => {
             details about our Business plan? Let us know. Or if you just want to
             get in touch, we will be happy to hear about you!
           </p>
+        
           <form
             action="#"
             className="space-y-8"
@@ -129,6 +130,9 @@ export const ContactForm = () => {
               </>
             )}
           </form>
+          <p className="mb-8 lg:mb-16 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">
+            Feel free to send us an email to: info@piltri.io 
+          </p>
         </div>
       </section>
     </div>

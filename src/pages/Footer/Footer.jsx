@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from 'react-router-dom'
 import './Footer.css'
+import {BiMailSend} from 'react-icons/bi'
 
 export const Footer = () => {
   return (
@@ -8,8 +9,10 @@ export const Footer = () => {
       <footer className="p-4 bg-emerald-700 rounded-lg shadow md:flex md:items-center md:justify-between md:p-6 footer">
         <span className="text-sm text-emerald-50 sm:text-center ">
           © 2022 <a className="hover:underline">piltri</a>. All Rights
-          Reserved.
+          Reserved. 
+           info@piltri.io 
         </span>
+        
         <ul className="flex flex-wrap items-center mt-3 text-sm text-emerald-50  sm:mt-0">
           <li>
             <Link to="/about">

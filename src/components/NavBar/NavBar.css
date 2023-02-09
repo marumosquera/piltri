@@ -1,0 +1,19 @@
+.logo-title{
+    font-family: 'AquireBold','arial','serif';
+    background: -webkit-linear-gradient(#B5FF7D, #FFF8B5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.sohne-text{
+    font-family: 'sohne','arial','monospace';
+}
+
+.piltri-logo{
+    width: 40px;
+    height: 40px;
+}
+
+.nav{
+    background-color: #00AD7C;
+}

@@ -1,0 +1,12 @@
+.form-btn{
+    border: 1px solid black;
+    border-radius: 3.4em;
+}
+
+.form-btn:hover{
+    border: 1px solid black;
+    border-radius: 3.4em;
+    background-color: black;
+    color: white;
+    transition: 1s;
+}

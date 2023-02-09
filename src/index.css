@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+@font-face {
+  font-family: "saintecolombe";
+  src: local("saintecolombe"),
+    url("./fonts/SainteColombe/saintecolombe-regular-TRIAL.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "saintecolombeBold";
+  src: local("saintecolombeBold"),
+    url("./fonts/SainteColombe/saintecolombe-bold-TRIAL.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "sohne";
+  src: local("sohne"),
+    url("./fonts/sohne/sohne-fett.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "AquireLight";
+  src: local("AquireLight"),
+    url("./fonts/AquireLight-YzE0o.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "AquireBold";
+  src: local("AquireBold"),
+    url("./fonts/AquireBold-8Ma60.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Aquire";
+  src: local("Aquire"),
+    url("./fonts/Aquire-BW0ox.otf") format("truetype");
+}
+
+
+@font-face {
+  font-family: "Mouse Memoirs";
+  src: url("./fonts/MouseMemoirs.woff2") format("woff2"),
+    url("./fonts/MouseMemoirs.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lexend Deca";
+  src: url("./fonts/LexendDeca-Regular.woff2") format("woff2"),
+    url("./fonts/LexendDeca-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

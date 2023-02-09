@@ -1,0 +1,15 @@
+.icons{
+    text-align: center;
+    margin: auto;
+    color: #B5FF7D;
+    font-size: 5em;
+   
+}
+
+.icons-container > p {
+    font-size: larger;
+    font-weight: 800;
+    background: -webkit-linear-gradient(#B5FF7D, #00AD7C);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

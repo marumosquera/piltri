@@ -1,0 +1,31 @@
+.know-page{
+    /* height: 90.5vh; */
+    width: 100%;
+    font-family: 'Lexend Deca','arial','monospace';
+}
+
+.know-title {
+    font-size: 3em;
+    font-family: 'Aquire','arial','monospace';
+    background: -webkit-linear-gradient(#B5FF7D, #00AD7C);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.img-us{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 50%;
+}
+
+@media (max-width: 700px) {
+
+    .img-us{
+        width: 100px;
+        height: 100px;
+        margin: auto;
+        border-radius: 50%;
+    }
+    
+}

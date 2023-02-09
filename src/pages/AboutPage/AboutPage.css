@@ -1,0 +1,29 @@
+.about-page{
+    /* height: 90.5vh; */
+    width: 100%;
+    font-family: 'Lexend Deca','arial','monospace';
+}
+.title-about {
+    font-size: 3em;
+    font-family: 'Aquire','arial','monospace';
+    background: -webkit-linear-gradient(#B5FF7D, #00AD7C);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.about-container > h1 {
+    font-family: 'Aquire','arial','monospace';
+}
+
+.about-sentence{
+font-size: larger;
+}
+
+.about-last{
+    font-size: 2em;
+}
+
+.about-container{
+    display: flex;
+    align-content: center;
+}

@@ -1,0 +1,41 @@
+.cta-btn{
+    border-radius: 3rem;
+    transition-duration: .6s;
+    padding-block: 1.5rem 1.6rem;
+    padding-inline: 2rem;
+
+
+  background-color: #52D681;
+  color: white;
+  
+  background: #1d976c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to top,
+    #52D681,
+    #00AD7C
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to top,
+    #52D681,
+    #00AD7C
+  )
+}
+.cta-btn:hover{
+    border-radius: 3rem;
+    transition-duration: .6s;
+    padding-block: 1.5rem 1.6rem;
+    padding-inline: 2rem;
+    background-color: black;
+    color:#52D681;
+      background: #1d976c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to top,
+    #B5FF7D,
+    #FFF8B5
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to top,
+    #B5FF7D,
+    #FFF8B5
+  )
+}

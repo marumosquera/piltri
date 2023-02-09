@@ -27,5 +27,7 @@
         margin: auto;
         border-radius: 50%;
     }
-    
+    .mail{
+        display: none;
+    }
 }

@@ -17,11 +17,7 @@ export const AboutPage = () => {
               So, in order to generate a real impact, we need to help the
               projects that are working on making our world a better place.
             </p>
-            <p className="about-sentence mt-5">
-              Our mission is to make donation simpler and attractive to you,
-              that is why we came up with an innovative solution that is a
-              WIN-WIN.
-            </p>
+          
             <p className="about-sentence mt-5">
               There’s over $40B locked in DeFi and a bunch of Earth regeneration
               projects waiting to be funded.
